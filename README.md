@@ -2,7 +2,7 @@
 
 [https://bog.thaipbs.or.th](https://bog.thaipbs.or.th)
 
-This website release for Thai PBS Board of Governors public relation website. by create custom template from our design.
+This website release for Thai PBS Board of Governors public relation website, by create custom template from our design.
 
 *******************
 ### Technology
